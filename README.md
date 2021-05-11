@@ -1,2 +1,2 @@
-# AI-search-algorithms-
-This is a python implementation of BFS and DFS search algorithms 
+# AI search algorithms
+This is a python3 implementation of BFS and DFS search algorithms 
